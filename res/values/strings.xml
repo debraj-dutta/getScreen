@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GetScreen</string>
+    <string name="tv1">tv1</string>
+    <string name="tv2">tv2</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
